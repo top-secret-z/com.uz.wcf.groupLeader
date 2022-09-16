@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/eventListener.xsd">
+	<import>
+		<eventlistener name="userGroupAddLeaderGroup">
+			<eventclassname>wcf\acp\form\UserGroupAddForm</eventclassname>
+			<eventname>assignVariables,readFormParameters,save</eventname>
+			<listenerclassname>wcf\system\event\listener\LeaderGroupListener</listenerclassname>
+			<inherit>1</inherit>
+			<environment>admin</environment>
+		</eventlistener>
+		
+		<eventlistener name="userGroupEditLeaderGroup">
+			<eventclassname>wcf\acp\form\UserGroupEditForm</eventclassname>
+			<eventname>readData</eventname>
+			<listenerclassname>wcf\system\event\listener\LeaderGroupListener</listenerclassname>
+			<environment>admin</environment>
+		</eventlistener>
+	</import>
+</data>

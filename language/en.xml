@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="en" languagename="English" countrycode="gb">
+	<category name="wcf.acp.leaderGroup">
+		<item name="wcf.acp.leaderGroup.button"><![CDATA[Select Groups]]></item>
+		<item name="wcf.acp.leaderGroup.groups"><![CDATA[Leader Groups]]></item>
+		<item name="wcf.acp.leaderGroup.groups.description"><![CDATA[Select the groups, which members are to be group leaders. Group leaders, who were inserted above, will be deleted.]]></item>
+		<item name="wcf.acp.leaderGroup.groups.none"><![CDATA[No suitable groups were found.]]></item>
+		<item name="wcf.acp.leaderGroup.groups.selection"><![CDATA[Selection]]></item>
+		<item name="wcf.acp.leaderGroup.multiSelect"><![CDATA[Select one oder more groups to define group leaders. Deselect all groups to delete existing group leaders.]]></item>
+		<item name="wcf.acp.leaderGroup.multiSelect.strg"><![CDATA[Multiple items can be selected by holding the “Ctrl/Shift” key (Windows) or “Command” (Mac OS) key and clicking on the desired items.]]></item>
+		<item name="wcf.acp.leaderGroup.title"><![CDATA[Group Leader Groups Selection]]></item>
+	</category>
+</language>
