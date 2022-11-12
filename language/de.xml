@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="de" languagename="Deutsch" countrycode="de">
-	<category name="wcf.acp.leaderGroup">
-		<item name="wcf.acp.leaderGroup.button"><![CDATA[Gruppen auswählen]]></item>
-		<item name="wcf.acp.leaderGroup.groups"><![CDATA[Gruppenleiter-Gruppen]]></item>
-		<item name="wcf.acp.leaderGroup.groups.description"><![CDATA[{if LANGUAGE_USE_INFORMAL_VARIANT}Wähle{else}Wählen Sie{/if} die Gruppen, deren Angehörige Gruppenleiter sein sollen. Die oben eingegebenen Gruppenleiter werden dabei gelöscht.]]></item>
-		<item name="wcf.acp.leaderGroup.groups.none"><![CDATA[Es wurde keine geeignete Gruppe gefunden.]]></item>
-		<item name="wcf.acp.leaderGroup.groups.selection"><![CDATA[Auswahl]]></item>
-		<item name="wcf.acp.leaderGroup.multiSelect"><![CDATA[{if LANGUAGE_USE_INFORMAL_VARIANT}Wähle{else}Wählen Sie{/if} eine oder mehrere Gruppen aus, um Gruppenleiter zu definieren. {if LANGUAGE_USE_INFORMAL_VARIANT}Wähle{else}Wählen Sie{/if} alle Gruppen ab, um alle Gruppenleiter zu löschen.]]></item>
-		<item name="wcf.acp.leaderGroup.multiSelect.strg"><![CDATA[Mehrfache Markierungen sind durch zusätzliches Drücken der Taste „Strg/Ctrl“ (Windows) oder „Befehl/Command“ (Mac OS) möglich.]]></item>
-		<item name="wcf.acp.leaderGroup.title"><![CDATA[Gruppenleiter-Gruppen auswählen]]></item>
-	</category>
+    <category name="wcf.acp.leaderGroup">
+        <item name="wcf.acp.leaderGroup.button"><![CDATA[Gruppen auswählen]]></item>
+        <item name="wcf.acp.leaderGroup.groups"><![CDATA[Gruppenleiter-Gruppen]]></item>
+        <item name="wcf.acp.leaderGroup.groups.description"><![CDATA[{if LANGUAGE_USE_INFORMAL_VARIANT}Wähle{else}Wählen Sie{/if} die Gruppen, deren Angehörige Gruppenleiter sein sollen. Die oben eingegebenen Gruppenleiter werden dabei gelöscht.]]></item>
+        <item name="wcf.acp.leaderGroup.groups.none"><![CDATA[Es wurde keine geeignete Gruppe gefunden.]]></item>
+        <item name="wcf.acp.leaderGroup.groups.selection"><![CDATA[Auswahl]]></item>
+        <item name="wcf.acp.leaderGroup.multiSelect"><![CDATA[{if LANGUAGE_USE_INFORMAL_VARIANT}Wähle{else}Wählen Sie{/if} eine oder mehrere Gruppen aus, um Gruppenleiter zu definieren. {if LANGUAGE_USE_INFORMAL_VARIANT}Wähle{else}Wählen Sie{/if} alle Gruppen ab, um alle Gruppenleiter zu löschen.]]></item>
+        <item name="wcf.acp.leaderGroup.multiSelect.strg"><![CDATA[Mehrfache Markierungen sind durch zusätzliches Drücken der Taste „Strg/Ctrl“ (Windows) oder „Befehl/Command“ (Mac OS) möglich.]]></item>
+        <item name="wcf.acp.leaderGroup.title"><![CDATA[Gruppenleiter-Gruppen auswählen]]></item>
+    </category>
 </language>
